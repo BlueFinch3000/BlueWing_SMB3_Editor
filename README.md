@@ -12,7 +12,7 @@ Every SMB3 hack can have its own structure, offsets, features, and creative ambi
 
 2. **ROM Data Preservation**
 
-   Save important ROM data inside a project profile, including:
+   Save important ROM data inside a project profile, including (1-2 demand Overworld Names Patch installed):
 
    1. World banner text and positions
    2. Level names
@@ -22,7 +22,7 @@ Every SMB3 hack can have its own structure, offsets, features, and creative ambi
 
    Saved profile data can be restored when loading a freshly compiled ROM, helping repeated builds remain consistent.
 
-3. **World and Level Name Editing**
+3. **World and Level Name Editing** (requires patch)
 
    Edit level names across multiple worlds, customize world banners, control banner placement, and assign map tiles used by level-name triggers.
 
